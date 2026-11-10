@@ -8,3 +8,6 @@ venv/
 
 # Environment variables
 .env
+
+# Collected static files
+staticfiles/
